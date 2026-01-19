@@ -150,11 +150,10 @@ git clone https://github.com/op7418/Humanizer-zh.git ~/.claude/skills/humanizer-
 
 ## 文件说明
 
-- **`SKILL.md`** - 中文版技能定义文件（主文件）
-- **`SKILL-en.md`** - 英文版技能定义文件（参考）
+- **`SKILL.md`** - 中文版技能定义文件
 - **`README.md`** - 本说明文档
 
-**注：** 原始英文版本请参考 [原项目](https://github.com/blader/humanizer)
+**注：** 英文原版请参考 [blader/humanizer](https://github.com/blader/humanizer)
 
 ## 手动使用方法
 
