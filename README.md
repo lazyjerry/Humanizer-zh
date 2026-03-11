@@ -1,6 +1,7 @@
 # Humanizer-zh: AI 寫作去痕工具（繁體中文版）
 
 > **聲明：**
+> - 本專案 fork 自 [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)
 > - 本專案的核心文件翻譯自 [blader/humanizer](https://github.com/blader/humanizer/tree/main)
 > - 實用工具部分（核心規則、快速檢查清單、品質評分）參考了 [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop)
 > - 原專案基於維基百科的 [Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing) 指南
