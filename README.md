@@ -245,4 +245,8 @@ git clone https://github.com/lazyjerry/Humanizer-zh ~/.claude/skills/humanizer-z
 
 ---
 
+## 操作測試報告（DEMO）
+
+https://lazyjerry.github.io/libs/try-humanizer-zh/
+
 **提示：** 這個工具不是為了「欺騙」AI 偵測器，而是為了真正提升寫作品質。最好的「去 AI 化」方法是讓文字有真實的人類思考和聲音。
