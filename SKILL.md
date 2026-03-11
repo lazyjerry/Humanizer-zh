@@ -1,5 +1,5 @@
 ---
-name: humanizer-zh
+name: Humanizer-zh
 description: |
   去除文本中的 AI 生成痕跡。適用於編輯或審閱文本，使其聽起來更自然、更像人類書寫。
   基於維基百科的"AI 寫作特徵"綜合指南。檢測並修復以下模式：誇大的象徵意義、
