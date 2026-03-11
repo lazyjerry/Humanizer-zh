@@ -5,6 +5,11 @@ description: |
   基於維基百科的"AI 寫作特徵"綜合指南。檢測並修復以下模式：誇大的象徵意義、
   宣傳性語言、以 -ing 結尾的膚淺分析、模糊的歸因、破折號過度使用、三段式法則、
   AI 詞彙、否定式排比、過多的連接性短語。強制使用繁體中文與台灣常用詞彙，禁止簡體字與中國大陸用語。
+allowed-tools:
+  - Read
+  - Write
+  - Edit
+  - AskUserQuestion
 metadata:
   trigger: 編輯或審閱文本，去除 AI 寫作痕跡
   source: 翻譯自 blader/humanizer，參考 hardikpandya/stop-slop
