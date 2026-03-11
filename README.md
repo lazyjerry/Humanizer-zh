@@ -32,7 +32,7 @@ npx skills add https://github.com/lazyjerry/Humanizer-zh
 如果你已安裝 [ai-global](https://github.com/lazyjerry/ai-global)，可以直接執行：
 
 ```bash
-ai-global skill lazyjerry/Humanizer-zh
+ai-global add lazyjerry/Humanizer-zh
 ```
 
 ### 方法三：透過 Git 複製
