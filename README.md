@@ -5,7 +5,7 @@
 > - 本專案的核心文件翻譯自 [blader/humanizer](https://github.com/blader/humanizer/tree/main)
 > - 實用工具部分（核心規則、快速檢查清單、品質評分）參考了 [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop)
 > - 原專案基於維基百科的 [Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing) 指南
-> 這篇 README 也是使用 [lazyjerry/Humanizer-zh](https://github.com/lazyjerry/Humanizer-zh) 更新過的喔！
+> - 這篇 README 也是使用 [lazyjerry/Humanizer-zh](https://github.com/lazyjerry/Humanizer-zh) 更新過的喔！
 
 ---
 
